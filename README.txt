@@ -1,5 +1,5 @@
 Setup:
-Put distorted pictures into "images" folder.
+Put distorted pictures into "images" folder (There are preloaded example images).
 
 In terminal run:
     python calibrate.py "images/*.jpg"
